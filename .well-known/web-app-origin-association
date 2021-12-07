@@ -1,0 +1,12 @@
+{
+    "web_apps": [
+        {
+            "manifest": "https://ne006.github.io/pwa_handlers_test/manifest.json",
+            "details": {
+                "paths": [
+                    "/*"
+                ]
+            }
+        }
+    ]
+}

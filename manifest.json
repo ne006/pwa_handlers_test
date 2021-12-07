@@ -1,0 +1,20 @@
+{  
+  "name": "PWA Test",  
+  "short_name": "PWA Test",
+  "start_url": "/pwa_handlers_test/index.html",
+  "background_color": "#DD55DD",
+  "theme_color": "#DD55DD",
+  "display": "standalone",
+  "url_handlers": [
+    {
+      "origin": "https://ne006.github.io"
+    }
+  ],
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
